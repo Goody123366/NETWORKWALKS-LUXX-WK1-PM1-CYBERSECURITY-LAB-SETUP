@@ -24,31 +24,31 @@ Created a NAT Network in VirtualBox using the required IPv4 network range of "10
 
 Configured Shared Clipboard and Drag-and-Drop to Bidirectional in the Kali Linux virtual machine settings.
 
-"Clipboard and Drag-and-Drop Settings" (02-Clipboard-Drag-Drop.png)
+"Clipboard and Drag-and-Drop Settings" ![Clipboard and Drag-and-Drop Settings](F.JPG)
 
 3. Kali Linux IP Configuration
 
 Configured Kali Linux with the required IP address "10.0.0.2/24".
 
-"Kali IP Configuration" (03-Kali-IP-Configuration.png)
+"Kali IP Configuration" ![Kali IP Configuration](K.JPG)
 
 4. Internet Connectivity Test
 
 Tested internet connectivity using the ping command. Four packets were received with zero packet loss.
 
-"Internet Connectivity Test" (04-Internet-Ping.png)
+"Internet Connectivity Test" ![Internet Connectivity Test](L.JPG)
 
 5. Shared Folder Configuration
 
 Configured the host Downloads folder to be accessible inside Kali Linux at "/downloads". Verified the mount using "findmnt".
 
-"Shared Folder Configuration" (05-Shared-Folder.png)
+"Shared Folder Configuration" ![Shared Folder Configuration](J.JPG)
 
 6. Virtual Machine Snapshot
 
 Created a snapshot of the Kali Linux virtual machine after completing the lab setup.
 
-"Kali VM Snapshot" (06-Kali-VM-Snapshot.png)
+"Kali VM Snapshot" ![Kali VM Snapshot](SNAPSHOT-FILENAME)
 
 Troubleshooting Experience
 
