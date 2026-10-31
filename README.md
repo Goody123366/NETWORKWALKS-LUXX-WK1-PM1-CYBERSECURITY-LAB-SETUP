@@ -48,7 +48,7 @@ Configured the host Downloads folder to be accessible inside Kali Linux at "/dow
 
 Created a snapshot of the Kali Linux virtual machine after completing the lab setup.
 
-"Kali VM Snapshot" ![Kali VM Snapshot](SNAPSHOT-FILENAME)
+"Kali VM Snapshot" ![Kali VM Snapshot](reavishrniohowrganh.JPG)
 
 Troubleshooting Experience
 
