@@ -18,7 +18,7 @@ Steps Completed
 
 Created a NAT Network in VirtualBox using the required IPv4 network range of "10.0.0.0/24".
 
-"NAT Network Configuration" (01-NAT-Network-Configuration.png)
+"NAT Network Configuration" ![NAT Network Configuration](A.JPG)
 
 2. Kali Linux Virtual Machine Settings
 
