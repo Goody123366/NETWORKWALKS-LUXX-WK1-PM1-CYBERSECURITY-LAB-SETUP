@@ -42,7 +42,7 @@ Tested internet connectivity using the ping command. Four packets were received 
 
 Configured the host Downloads folder to be accessible inside Kali Linux at "/downloads". Verified the mount using "findmnt".
 
-"Shared Folder Configuration" ![Kali VM Snapshot](SNAPSHOT-FILENAME)
+"Shared Folder Configuration" ![Internet Connectivity Test](L.JPG)
 
 6. Virtual Machine Snapshot
 
