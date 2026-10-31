@@ -40,7 +40,7 @@ Tested internet connectivity using the ping command. Four packets were received 
 
 5. Shared Folder Configuration
 
-Configured the host Downloads folder to be accessible inside Kali Linux at "/downloads". Verified the mount using "findmnt". Screenshot 2026-10-31 133927.jpg
+Configured the host Downloads folder to be accessible inside Kali Linux at "/downloads". Verified the mount using "findmnt".
 
 "Shared Folder Configuration" ![Shared FolderConfi Configuration](Screenshot.JPG)
 
